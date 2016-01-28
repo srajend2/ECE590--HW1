@@ -1,0 +1,11 @@
+Installing Python on Ubuntu:
+===========================
+https://www.youtube.com/watch?v=MH4anq35I4o
+
+
+
+3D Text - Autocad:
+=================
+https://knowledge.autodesk.com/support/autocad/getting-started/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-2AA12FC5-FBB2-4ABE-9024-90D41FEB1AC3-htm.html?v=2016
+https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-64F8B700-23B3-4BD6-8C03-66121AA13E8F-htm.html
+https://www.youtube.com/watch?v=lEWgcW75sEo
